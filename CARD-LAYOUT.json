@@ -1,0 +1,58 @@
+{
+  "source": "vcqgnqdzw6u71(1).jpg",
+  "source_pixels": [
+    2048,
+    2048
+  ],
+  "measurement_display_scale": 1.28,
+  "card_portrait_bounds_at_1600": [
+    965.625,
+    187.5,
+    1431.25,
+    925.78125
+  ],
+  "chip_bounds_at_1600": [
+    1201.5625,
+    267.1875,
+    1272.65625,
+    364.84375
+  ],
+  "visa_bounds_at_1600": [
+    989.0625,
+    736.71875,
+    1042.96875,
+    899.21875
+  ],
+  "layout": "Counterclockwise rotation to landscape. Coordinates are fixed in an 856 by 539.8 SVG, scaled uniformly with the card.",
+  "number": {
+    "first_character_center": 101.8,
+    "pitch": 36.3,
+    "ink_height": 43.2,
+    "baseline": 354.8,
+    "typeface": "Farrington 7B"
+  },
+  "name": {
+    "ink_left": 51,
+    "pitch": 25.4,
+    "baseline": 486,
+    "typeface": "OCR B"
+  },
+  "expiry": {
+    "ink_left": 402,
+    "pitch": 25.4,
+    "baseline": 438.8,
+    "label_baseline": 394,
+    "typeface": "OCR B"
+  },
+  "chip_percent": {
+    "left": 10.7937,
+    "top": 34.0604,
+    "width": 13.2275,
+    "height": 15.2685
+  },
+  "visa_percent": {
+    "left": 74.3915,
+    "top": 83.3893,
+    "width": 22.0106
+  }
+}

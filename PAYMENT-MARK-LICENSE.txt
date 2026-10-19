@@ -1,0 +1,36 @@
+Payment capability marks — WHOO mobile prototype
+
+Apple Pay and the Pay lettering in Google Pay derive from Font Awesome Free 7.3.1 by Fonticons, Inc. Icons: Creative Commons Attribution 4.0.
+License: https://creativecommons.org/licenses/by/4.0/
+Font Awesome license: https://fontawesome.com/license/free
+
+apple-pay-mark-v9.svg
+Source: https://github.com/FortAwesome/Font-Awesome/blob/7.x/svgs/brands/apple-pay.svg
+Source blob: d676b5100eadc0009fb49908d88f2c94e14605b5
+
+google-pay-mark-v9.svg
+Source: https://github.com/FortAwesome/Font-Awesome/blob/7.x/svgs/brands/google-pay.svg
+Source blob: 5397da8e394dda0f8dcd14ada8fb70d89a531950
+
+Adaptations: blank outer space trimmed via the SVG viewBox; ink set to light grey for the dark interface. The Google G reuses the existing multicolour vector glyph, uniformly scaled beside the original Pay lettering. No logo text is typeset from an app font. SVG path geometry is retained for the wordmarks.
+Revision 11 intro tile treatment:
+Apple Pay retains the existing full vector path, in black on a white tile.
+Google Pay retains the existing multicolour G and full Pay path; Pay uses #5f6368 on white.
+Visa is the user's unmodified Visa_Inc._logo_(2021–present).svg.webp, copied byte-for-byte.
+Mastercard embeds the user's unmodified Mastercard_logo.webp pixels in an SVG viewport that crops only surrounding white space and preserves the TM mark.
+All four tile containers have equal dimensions. Logo aspect ratios are preserved.
+The watermarked stock preview is used only as a tile-style reference.
+
+Revision 11 illustrative merchant icons:
+Uber, Booking.com and Starbucks SVG geometry comes from Simple Icons (CC0-1.0). Brand names and logos remain trademarks of their respective owners. These icons identify illustrative everyday purchases only.
+License: https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
+Uber: https://github.com/simple-icons/simple-icons/blob/develop/icons/uber.svg
+Source blob: 08e1bbb201e66a583fd7236d93684820f7752a0f
+Booking.com: https://github.com/simple-icons/simple-icons/blob/develop/icons/bookingdotcom.svg
+Source blob: 59073014a65cf3c83c0594cc4f3be43e1d1d6d17
+Starbucks: https://github.com/simple-icons/simple-icons/blob/develop/icons/starbucks.svg
+Source blob: e0ec14651dc0b367124ce518b90f4a1477901479
+Adaptation: original paths retained; fills set to black, Booking.com blue (#003b95) and Starbucks green (#00754a) respectively, on equal white merchant tiles.
+
+Revision 13 selector:
+All three tiers reuse apple-pay-black-v11.svg, google-pay-colour-v11.svg and the supplied high-resolution blue Visa bitmap on equal white tiles. The card-face Visa overlay uses the same supplied high-resolution artwork, converted by CSS to black or white ink without changing its geometry. No replacement logo is typeset or generated.
